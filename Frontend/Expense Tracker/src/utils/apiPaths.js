@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "http://13.50.189.193:8000";
 
 //utils/apiPaths.js
 export const API_PATHS = {
